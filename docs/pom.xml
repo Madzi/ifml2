@@ -21,6 +21,7 @@
         <module>manual</module>
         <module>compendium</module>
         <module>roadmap</module>
+        <module>glulx</module>
     </modules>
 
 </project>

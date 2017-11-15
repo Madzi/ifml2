@@ -17,7 +17,7 @@
         <module>fx</module>
         <module>platform</module>
         <module>base</module>
-        
+        <module>grammar</module>
     </modules>
 
     <properties>
